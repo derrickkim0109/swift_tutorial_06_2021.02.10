@@ -1,0 +1,6 @@
+framework module Pods_Kanna_05_Corona {
+  umbrella header "Pods-Kanna_05_Corona-umbrella.h"
+
+  export *
+  module * { export * }
+}
